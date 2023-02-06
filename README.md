@@ -1,2 +1,2 @@
-# open_aoi
+# OpenAOI
 Open Source Automated Optical Inspection
